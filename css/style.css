@@ -18,9 +18,28 @@
     height: 35%;
     border: black 3px solid;
     text-align: center;
-    padding-top: 4%;
+    padding-top: 6%;
 }
 .arrow-pos{
     padding-left: 70%;
     padding-top: 30%;
 }
+.color-orange{
+    color: rgb(234, 119, 42);
+}
+.color-white{
+    color: rgb(255, 255, 255);
+}
+.rounded{
+    border-radius: 10%;
+}
+.Contact{
+    padding-top: 80%;
+}
+.pad-row{
+    padding-right: 40%;
+    padding-inline: 85%;
+    padding-top: 10%;
+    font-size-adjust: 100%;
+    font-size: xx-large;
+
