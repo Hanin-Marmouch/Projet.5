@@ -42,4 +42,13 @@
     padding-top: 10%;
     font-size-adjust: 100%;
     font-size: xx-large;
-
+}
+.yellow{
+    background:#ffe7cf;
+}
+.color-or:hover{
+    color: rgb(255, 132, 0);
+}
+.color-bl:hover{
+    color: black;
+}
