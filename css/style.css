@@ -98,3 +98,6 @@ color: aliceblue;
     width: 100%;
     border: black 2px solid;
   }
+  .roun-ded{
+    border-radius: 5%;
+  }
